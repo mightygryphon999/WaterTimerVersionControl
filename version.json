@@ -1,7 +1,8 @@
 {
     "version": "3.0.0",
-    "Kickstarter": "no",
-    "KickstarterGoal": 0,
+    "Kickstarter": "yes",
+    "KickstarterGoal": 1000,
     "CurrentKickstarterMoney": 0,
-    "KickstarterDescription": "Raise money for tower runner"
+    "KickstarterDescription": "Raise money for tower runner",
+    "KickstarterURL": "https://buy.stripe.com/fZe7w49hd8C2at2bIK"
 }
