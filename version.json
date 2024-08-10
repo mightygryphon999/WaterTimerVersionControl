@@ -1,3 +1,6 @@
 {
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "Kickstarter": "yes",
+    "KickstarterGoal": 0,
+    "CurrentKickstarterMoney": 0
 }
