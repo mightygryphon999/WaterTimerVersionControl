@@ -1,6 +1,6 @@
 {
     "version": "3.0.0",
-    "Kickstarter": "yes",
+    "Kickstarter": "no",
     "KickstarterGoal": 1000,
     "CurrentKickstarterMoney": 500,
     "KickstarterDescription": "Raise money for tower runner",
